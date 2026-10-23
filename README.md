@@ -4,6 +4,10 @@ A full-screen photo frame for [MagicMirror²](https://github.com/MagicMirrorOrg/
 
 *Cadre photo plein écran pour MagicMirror² : vos photos, stylisées « Ghibli » par un modèle AnimeGANv2, préparées chaque nuit par le Pi lui-même.*
 
+![Before / after: original photo (left), Ghibli-style result (right)](docs/before-after.jpg)
+
+*Left: original photo cropped to the screen ratio. Right: result of the overnight conversion (1080×1920 source, shown here at half size).*
+
 Built and tested on a Raspberry Pi 5 (4 GB, Debian 12, MagicMirror 2.30, portrait screen 1080×1920, MMM-pages).
 
 ## How it works
