@@ -73,6 +73,10 @@ Get an AnimeGANv2 ONNX model yourself (the "Hayao" weights give the Ghibli / Miy
 
 [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) (model), [MMM-OneDrive](https://github.com/hermanho/MMM-OneDrive) (OneDrive access), [MMM-pages](https://github.com/edward-shen/MMM-pages).
 
+## Disclaimer
+
+This is an independent hobby project, **not affiliated with or endorsed by Studio Ghibli**. "Ghibli-style" only describes the look of the filter's output. No model weights or third-party images are distributed here.
+
 ## Licence
 
 MIT for the code in this repository (see `LICENSE`). The model and the photos are yours / their authors'.
