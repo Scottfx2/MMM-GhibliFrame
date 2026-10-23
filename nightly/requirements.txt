@@ -1,0 +1,4 @@
+onnxruntime
+numpy
+Pillow
+# OpenCV: apt install python3-opencv (venv created with --system-site-packages) or pip install opencv-python-headless

@@ -1,0 +1,18 @@
+.MMM-GhibliFrame .ghibliframe {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	overflow: hidden;
+}
+
+.MMM-GhibliFrame .ghibliframe-layer {
+	position: absolute;
+	inset: 0;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	opacity: 0;
+}

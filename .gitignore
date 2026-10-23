@@ -1,0 +1,14 @@
+# never publish photos, models or credentials
+photos
+nightly/originals/
+nightly/ghibli/
+nightly/backup/
+nightly/data/
+nightly/models/
+nightly/logs/
+nightly/venv/
+nightly/settings.json
+nightly/.lock
+*.onnx
+token*.json
+*.bak*
